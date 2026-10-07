@@ -1,0 +1,9 @@
+{
+  "DESIGN_NAME": "riscv_core",
+  "VERILOG_FILES": "dir::../rtl/*.v",
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 20.0,
+  "FP_SIZING": "relative",
+  "FP_CORE_UTIL": 35,
+  "RUN_LINTER": false
+}
